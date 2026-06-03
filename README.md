@@ -1,4 +1,4 @@
-Smart Citizen Activity 
+#Smart Citizen Activity 
 I’m excited to share our project, **UrbanPulse – Smart City Citizen Analytics Dashboard** 🌆
 
 This project was collaboratively developed by **Sivasurya, Abdul Rahman, and Srianbu** using Streamlit, Machine Learning, and Plotly to create an intelligent smart-city analytics platform.
